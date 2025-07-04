@@ -1,0 +1,28 @@
+body{
+    font-family:  Arial, sans-serif;
+    text-align: center;
+
+}
+
+#quiz-container{
+    width: 51%;
+    margin: auto;
+    padding: 21px;
+    border: 1px solid #ccc;
+    border-radius: 11px;
+}
+
+.btn{
+    display: block;
+    width: 101%;
+    padding: 11px;
+    margin: 6px 0;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+btn:hover {
+    background-color: #0056b3;
+}
